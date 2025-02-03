@@ -15,7 +15,7 @@
  
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/nikhil-khandelwal-1001)
-[![Linkedin Badge](https://img.shields.io/badge/-nikhil%20khandelwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nikhil-khandelwal-/)](www.linkedin.com/in/nikhil-khandelwal-) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nikhil%20Khandelwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nikhil-khandelwal-/)](www.linkedin.com/in/nikhil-khandelwal-) 
  [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/nikhil-khandelwal-1001)
 ![GitHub Stars](https://img.shields.io/github/stars/nikhil-khandelwal-1001?style=social)
 
