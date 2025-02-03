@@ -26,7 +26,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/nikhi-khandelwal-1001/nikhil-khandelwal-1001/blob/main/assets/oct-about.png"> 
+  <img width="240" height="230" align='right' src="https://github.com/nikhil-khandelwal-1001/nikhil-khandelwal-1001/blob/main/assets/oct-about.png"> 
 </p>
 
 
